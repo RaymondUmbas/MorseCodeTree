@@ -1,13 +1,13 @@
 package edu.miracosta.cs113;
 
-import org.junit.Test;
-
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 
 import java.util.Scanner;
+
+import org.junit.jupiter.api.Test;
 
 /**
  * BinaryTreeTest : Tester class for generic BinaryTree class implementation which employs a pre-order traversal
